@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="300dp"
+              android:layout_height="300dp"
+              android:orientation="horizontal"
+              android:background="@drawable/tab_center2"
+
+    >
+
+    <LinearLayout
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+      <ImageView
+          android:id="@+id/tab_centter_select1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@drawable/tab_button"
+          />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tab_center_select1"
+            android:textSize="@dimen/tab_center_select"
+            />
+    </LinearLayout>
+<View
+    android:layout_width="2dp"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    ></View>
+
+    <LinearLayout
+        android:layout_width="120dp"
+        android:layout_height="150dp"
+        android:orientation="vertical"
+       android:gravity="center"
+        >
+        <ImageView
+            android:id="@+id/tab_centter_select2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/tab_button"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tab_center_select2"
+            android:textSize="@dimen/tab_center_select"
+            />
+
+    </LinearLayout>
+<ImageView
+ android:id="@+id/close"
+    android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:background="@drawable/close"
+    />
+
+
+</LinearLayout>

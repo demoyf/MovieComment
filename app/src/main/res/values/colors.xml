@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--login界面整个背景颜色-->
+    <color name="loginBackgroundColor">#770074FF</color>
+    <!--中间放置按钮的背景色，半透明-->
+    <color name="squareLoginColor">#55FFFFFF</color>
+    <!--白色-->
+    <color name="color_white">#fff</color>
+    <!--普通的灰色-->
+    <color name="color_gray">#57000000</color>
+    <color name="color_blue">#0000ff</color>
+    <color name="search_item_text_color">#89000000</color>
+    <color name="main_ui_bar_background">#770074FF</color>
+    <color name="tool_bar_text_color">#0055ff</color>
+    <color name="divier_color">#1F000000</color>
+    <color name="tab_bg">#fff</color>
+    <color name="tab_textcolor">#FF00E2FF</color>
+    <color name="tab_textcolor2">#D3000000</color>
+    <color name="tab_center_close">#FF008BFF</color>
+    <color name="head_portrait">#333333</color>
+    <color name="toolbarcolor">#1effffff</color>
+    <color name="main_ui_background">#550042FF</color>
+    <color name="fragment_exit_button1">#FFFF0000</color>
+    <color name="fragment_exit_button2">#FFAA0000</color>
+
+    <color name="fragment4_toolbar_button_bg">#40000000</color>
+
+
+
+    <!--电影标签里的按钮颜色-->
+    <color name="button1">#FF00FF00</color>
+    <color name="button2">#FFFF0000</color>
+
+</resources>

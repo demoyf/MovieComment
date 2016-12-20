@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <include layout="@layout/single_tool_bar"/>
+    <TextView
+        android:id="@+id/fragment4_toolbar_button_favourite_textview_bg"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/movie_item_background"
+        android:textSize="16sp"
+        android:paddingStart="10dp"
+        android:paddingTop="10dp"
+        android:layout_margin="5dp"
+        />
+
+<com.fyales.tagcloud.library.TagCloudLayout
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:tagSpacing="15dp"
+    app:lineSpacing="10dp"
+    ></com.fyales.tagcloud.library.TagCloudLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center|bottom"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:layout_marginTop="5dp"
+            android:id="@+id/fragment4_toolbar_button_favourite_button_true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="保存"
+            android:textSize="18sp"
+            android:background="@drawable/button_background"
+            />
+        <Button
+            android:layout_marginTop="5dp"
+            android:id="@+id/fragment4_toolbar_button_favourite_button_false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="清空"
+            android:background="@drawable/button_background"
+            android:textSize="18sp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

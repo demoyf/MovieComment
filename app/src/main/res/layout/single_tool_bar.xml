@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+    android:background="@color/main_ui_bar_background"
+    >
+    <ImageView
+        android:background="@drawable/movie_item_background"
+        android:id="@+id/back_icon_in_tool"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/search_back_icon"
+        android:layout_margin="3dp"
+        android:paddingLeft="@dimen/dp_10"
+        android:paddingTop="6dp"
+        android:paddingBottom="2dp"
+        />
+    <TextView
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="@dimen/dp_10"
+        android:textColor="@color/tool_bar_text_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="微影评"
+        android:gravity="center"
+        android:textSize="20sp"
+        />
+</RelativeLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--先设置好背景颜色和标题栏，而Login方面只需要做一个中心的半透明方块就可以，
+主要是为了防止颜色重叠之后，变得很怪异-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:xyf = "http://schemas.android.com/apk/res-auto"
+    android:background="@color/loginBackgroundColor"
+    >
+    <!--标题栏-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/squareLoginColor"
+        android:id="@+id/linear_activity"
+        >
+        <com.example.mbenben.movie.Login.LoginTitleTextView
+            android:id="@+id/normal_login"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            xyf:text="正常登录"
+            xyf:text_size="20sp"
+            xyf:process="1"
+            />
+        <!--分隔线-->
+        <View
+            android:layout_marginTop="3dp"
+            android:layout_width="1dp"
+            android:layout_height="20dp"
+            android:background="@color/color_gray"
+            />
+        <com.example.mbenben.movie.Login.LoginTitleTextView
+            android:id="@+id/quick_login"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            xyf:text="快速登录"
+            xyf:text_size="20dp"
+            xyf:process="0"
+            />
+    </LinearLayout>
+    <!--ViewPager-->
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/view_pager"
+        android:layout_below="@+id/linear_activity"
+        >
+    </android.support.v4.view.ViewPager>
+</RelativeLayout>

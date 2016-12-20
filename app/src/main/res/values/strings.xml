@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">微影评</string>
+
+    <string name="textView">跳过</string>
+
+    <string name="login_text">登录</string>
+    <string name="register_text">注册</string>
+    <string name="enter_phone">请输入手机号码</string>
+    <string name="enter_password">请输入密码</string>
+    <string name="quick_login_text">快速登录</string>
+    <string name="enter_ver_code">请输入验证码</string>
+    <string name="get_ver_code">获取验证码</string>
+    <string name="confirm_password_text">确认密码</string>
+    <string name="yes_text">确认</string>
+    <string name="no_text">取消</string>
+
+    <string name="tab1">第一个Fragment</string>
+    <string name="tab2">此模版暂未开发</string>
+    <string name="tab3">此模版暂未开发</string>
+    <string name="tab4">第四个Fragment</string>
+
+    <string name="short_criticism_text">热门微评</string>
+    <string name="long_cirticims_text">热门长评</string>
+    <string name="show_movie">影片资讯</string>
+    <string name="search_text">输入电影名</string>
+    <string name="tab_center_select1">影评</string>
+    <string name="tab_center_select2">论坛</string>
+
+    <string name="fragment4_toolbar">个人中心</string>
+    <string name="fragment4_exit_button">退出帐号</string>
+
+    <string name="fragment4_toolbar_button">个人信息</string>
+    <string name="fragment4_toolbar_button_essentialinformation">基本信息</string>
+    <string name="fragment4_toolbar_button_headportrait">头像</string>
+    <string name="fragment4_toolbar_button_more">更多信息</string>
+    <string name="fragment4_toolbar_button_photograph">拍照</string>
+    <string name="fragment4_toolbar_button_album">从相册选择</string>
+    <string name="fragment4_toolbar_button_itemtext">未填写</string>
+
+    <string name="fragment4_toolbar_button_message_button_true">确定</string>
+    <string name="fragment4_toolbar_button_message_button_false">取消</string>
+
+</resources>

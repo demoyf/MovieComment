@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="WheelPicker-1.2.4">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.qqtheme.framework/WheelPicker/1.2.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.qqtheme.framework/WheelPicker/1.2.4/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.qqtheme.framework/WheelPicker/1.2.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.qqtheme.framework/WheelPicker/1.2.4/7e41cf7db682a91c9aee520fb754d05303d739c/WheelPicker-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

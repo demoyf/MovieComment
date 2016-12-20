@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/movie_item_background"
+              android:layout_margin="5dp"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lines="2"
+        android:text="1111"
+        android:paddingLeft="10dp"
+        android:gravity="center_vertical"
+        android:textSize="22sp"
+        android:id="@+id/weiping_desc"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lines="2"
+        android:text="---《1111》"
+        android:paddingRight="10dp"
+        android:gravity="center_vertical|end"
+        android:textSize="18sp"
+        android:id="@+id/weiping_title"
+        />
+</LinearLayout>

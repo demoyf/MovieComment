@@ -2,319 +2,301 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\libs\MobTools-2016.0624.1326.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="3c1d0c1670293a30fc29f2ed8ba33e0a6f9821fe">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2016.0624.1326_9c9a36fc302ca30e4c6f7e3ebca2ddda0db6dff6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\libs\okhttp-urlconnection-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d737653459be272e881d51024274fa4785225641">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-urlconnection-2.5.0_c7aa858ca77f007d17cbd80c858f8b9df627169d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a3af0199ad9ab0727622f9011f21bdaa812d22f9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\libs\volley.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_fce8e19c837d7cf7b3b4c29826c638a06863e728\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_6b5cab9b30eaa57ad2189348a1250675ffffa192\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_0b77ded1fde532478a9668b384953fc323b561b4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\SMSSDK-2.1.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e771b37b443378199ab670e072a4469f363533ac">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-SMSSDK-2.1.2_7f2a94b33069862b2263257dbb9f438e9df22a0d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_ef51f776916946177b994597988bfa3326d9bd5c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_966aba7946863dba49c49c1a40271a7db71a79a8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_b030724faf95bfacd15452f2961df00cdcb1e6cd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\cn.qqtheme.framework\Common\1.2.4\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="e9efc8a4b2e0ed353a53f78f70983a7b0b3616d4">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.qqtheme.framework-Common-1.2.4_6e01650e0506233bc0e4ec23334b220ca888ac3a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_3fd3a6c2964a58750e0887812bedf4d1c50ce013\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\libs\MobCommons-2016.0624.1326.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="57eee6c3e8bab2ed4b9a585a7f590808d6518573">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2016.0624.1326_d55a38080b92a6c4209f3b5633405f005c05c61a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0fe418d24c3c85b42404e907214d31674c0aa4ae">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d3266884d452a4438da1e1ae82545c361c496427\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_5a47f1ac7f3224261f3ea3bb21438c3d11f29536\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="0f1ff1a0345bb5bc0c30ed6d4e83e288a3ceb26d">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d89144fff716dfa51ae171aa320b71018020ecb9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_f1159db1d02385988b9783c9c721e638fbb42566\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_a6ea00181e01d7cc075c91f691977843598f4bd0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_2e858cc0635db5a7dc0a003f69ed22a66850aced\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\SMSSDKGUI-2.1.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="3a63d84564449cb36b6d4ff28bff3acf581d2e13">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-SMSSDKGUI-2.1.2_4629988fb09e862dd08a1e44c47eed88957a5cb8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_30c62bbe61b17356eae23a9b91bb8148ac1c2914\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.fyales.android\library\1.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="765576f761a20adc11cf97d43358586a861af9bf">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.fyales.android-library-1.0.2_2d28f887643d21d26fec63461718e5a57399d2c9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_66091ecd0f600c4d966290c0d44799851b422b54\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.7.5_43648404199664c49a322f240018e2b631c2098f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_45414d9c625446dc3fada8ab17019bea981ef646\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\cn.qqtheme.framework\WheelPicker\1.2.4\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="bafee75ffc0408498da2fb41f9fa7b084b894d42">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.qqtheme.framework-WheelPicker-1.2.4_f9ca268acfadbc6cd49415bafd026840820ab69c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.21\4dc148b3edc0d58c1bdb9e4835c187c488986e05\fastjson-1.2.21.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="4dc148b3edc0d58c1bdb9e4835c187c488986e05">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.2.21_7872a3e4be0ef3c358e4824c58dfebe10ab10912\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_53077df726a60a138b1cc602739ed696a12798f4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="814fc0c3ec69a944add398217d90077301501a74">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.makeramen-roundedimageview-2.2.1_6928716ed66e90f29767fb046fb98ace201a53bb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_4f1a9e7832851d4af676f7438f576a7fdd7c4469\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_6fad1d2e383a9a7b99ab98b4b79fcd4930a6f84f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.0\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="1ac5b6d36ed6d2e0b6b6e6909bc4e1fb86cf1923">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.2.0_ac491796e32d905f03f4e384fafa9f5fa5546609\classes.dex" />
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.2.0_7fdd97af60fee489d384eb6f898c01d426bccefa.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.21\4dc148b3edc0d58c1bdb9e4835c187c488986e05\fastjson-1.2.21.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c9d80e2c10395da09a1099ae6d07b8f171a31bba\classes.dex" />
+        sha1="4dc148b3edc0d58c1bdb9e4835c187c488986e05">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\fastjson-1.2.21_7872a3e4be0ef3c358e4824c58dfebe10ab10912.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\SMSSDKGUI-2.1.2\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_45305f900de09ee2681d4aad29acbc4aa3eb3116\classes.dex" />
+        sha1="3a63d84564449cb36b6d4ff28bff3acf581d2e13">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-SMSSDKGUI-2.1.2_f44af6a025749aac6be603aa4be3193cc6b1561e.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\AMyTestAndroidProject\Movie\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\okio-1.6.0_5a47f1ac7f3224261f3ea3bb21438c3d11f29536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="D:\AMyTestAndroidProject\Movie\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f6c6bbb27ac95fe2cebf57078b354c95ce903137\classes.dex" />
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e41aecd79c0df5065cc8d6c086a5b1eb38efcb98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_4f1a9e7832851d4af676f7438f576a7fdd7c4469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.fyales.android\library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="765576f761a20adc11cf97d43358586a861af9bf">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.fyales.android-library-1.0.2_2ab58263e4031b929c487b5acf9598f20ac2a4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d8a25b85bb773df466f0fa6ec6dd7e5871dbbd5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\libs\okhttp-urlconnection-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.5.0_f137c4ebb5d38931afebfb5bf22e6557a81c8b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a0acea27cad80d1ae36e917b9ea7d6165cb48b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\cn.qqtheme.framework\Common\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9efc8a4b2e0ed353a53f78f70983a7b0b3616d4">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\cn.qqtheme.framework-Common-1.2.4_c32585548542fd6647f6c8ba504041f9a2b41d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_02e92a93dad072d8df8aca70c612622d55cf811d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="814fc0c3ec69a944add398217d90077301501a74">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.makeramen-roundedimageview-2.2.1_60ecf1430d78eefb48d25559593f39b48ef77724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\libs\MobCommons-2016.0624.1326.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="57eee6c3e8bab2ed4b9a585a7f590808d6518573">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0624.1326_90a9ec2eccafff1e2bd244a0e8d7cb1aa4536a21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_9386568a5ffa5202b5ac68b8597268c52ffcfa20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\libs\MobTools-2016.0624.1326.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c1d0c1670293a30fc29f2ed8ba33e0a6f9821fe">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\MobTools-2016.0624.1326_93a7255a4a874558b5351c9ce9437045297f0e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_5d79bdeaba8ded55339800e74da3b93aec3a67f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_7c17fb9a605934fa72f608b49f941417eae553f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_a76b332ac885795342af26e651983e960055d512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_03454e69b4f8e9592dd9858cd974b92acb270cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_a17cc2c3bd111f28e547394f257509f60deababd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\SMSSDK-2.1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e771b37b443378199ab670e072a4469f363533ac">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-SMSSDK-2.1.2_adfee1811ddfd6bb46cb74d3b802d7037b56e7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_6978134a1ed4fccf21bf01f196bf07a75b65dc9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\cn.qqtheme.framework\WheelPicker\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bafee75ffc0408498da2fb41f9fa7b084b894d42">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\cn.qqtheme.framework-WheelPicker-1.2.4_7192254e6e31a9a8c69929891358097be4ee2b26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_e14346c04c6516917b5bb9fa59e0b7c271775d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_43648404199664c49a322f240018e2b631c2098f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_45305f900de09ee2681d4aad29acbc4aa3eb3116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_47cc9c4b5781d079aad618e965d37321f2faf01f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_8f65b2e1bde000973d5da5e1fc28f3b32aa186dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_4a836af8db12ebfb46cce5c28cbd04983d0ca720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_461d3cb600d15a12d80db82b8a4f2242473a059a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AMyTestAndroidProject\MovieComment\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\volley_03d0b20e7cd1daa0f8cc84dfd6a35368f1e9d4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Users\alone\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\AMyTestAndroidProject\MovieComment\app\build\intermediates\pre-dexed\debug\gson-2.8.0_966aba7946863dba49c49c1a40271a7db71a79a8.jar" />
     </item>
 
 </items>

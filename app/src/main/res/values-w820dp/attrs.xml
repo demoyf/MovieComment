@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--登陆界面上方的自定义TextView 的属性-->
+<resources>
+    <declare-styleable name="LoginTitleTextView">
+        <attr name="text" format="string"></attr>
+        <attr name="text_size" format="dimension"></attr>
+        <attr name="direction">
+            <enum name="left" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+        <attr name="process" format="float"/>
+    </declare-styleable>
+</resources>

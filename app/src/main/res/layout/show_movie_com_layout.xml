@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#4B2E5568"
+    >
+    <include layout="@layout/single_tool_bar"/>
+    <include layout="@layout/movie_item_layout_single"/>
+</LinearLayout>

@@ -1,1 +1,1 @@
-# MovieComment
+# 简易的影评类型软件
